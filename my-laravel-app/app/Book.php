@@ -11,5 +11,8 @@ class Book extends Model
         $this->title = $title;
         $this->body = $body;
         $this->save();
+
+
+        //test
     }
 }
